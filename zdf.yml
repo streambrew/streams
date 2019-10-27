@@ -1,1 +1,2 @@
-
+Provider: "ZDF"
+streamURL: "https://zdf-hls-01.akamaized.net/hls/live/2002460/de/high/master.m3u8"
